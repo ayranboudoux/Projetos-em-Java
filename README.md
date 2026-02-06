@@ -11,6 +11,7 @@ O objetivo é documentar minha evolução como desenvolvedor backend e servir co
 Os projetos estão organizados de forma progressiva, acompanhando meu aprendizado:
 
 java-projects
+
 |-- fundamentos      -> Conceitos básicos da linguagem Java
 |-- oop              -> Programação Orientada a Objetos
 |-- collections      -> List, Set, Map e Streams
