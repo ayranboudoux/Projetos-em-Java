@@ -25,3 +25,18 @@ Os projetos estão organizados de forma progressiva, acompanhando meu aprendizad
 ┣ 📂 desafios
 ┃ ┗ Exercícios e desafios práticos
 ```
+
+---
+
+## Tecnologias e Ferramentas
+
+- Java
+- Spring Boot
+- Maven / Gradle
+- JDBC
+- JPA / Hibernate
+- APIs REST
+- Banco de Dados (MySQL / PostgreSQL)
+- Git e GitHub
+
+---
