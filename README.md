@@ -4,7 +4,6 @@ Este repositório reúne meus projetos desenvolvidos em **Java**, desde os prime
 
 O objetivo é documentar minha evolução como desenvolvedor backend e servir como **portfólio**.
 
----
 
 ## Conteúdo do Repositório
 
@@ -26,7 +25,6 @@ Os projetos estão organizados de forma progressiva, acompanhando meu aprendizad
 ┃ ┗ Exercícios e desafios práticos
 ```
 
----
 
 ## Tecnologias e Ferramentas
 
@@ -39,20 +37,13 @@ Os projetos estão organizados de forma progressiva, acompanhando meu aprendizad
 - Banco de Dados (MySQL / PostgreSQL)
 - Git e GitHub
 
----
-
----
 
 ## Status
 
 Repositório em constante evolução — novos projetos serão adicionados conforme avanço nos estudos.
 
----
-
----
 
 ## Sobre mim
 
 Desenvolvedor focado em **Backend**, apaixonado pela tecnologia, em constante aprendizado e evolução, buscando aprimorar habilidades técnicas e construir soluções eficientes e bem estruturadas.
 
----
