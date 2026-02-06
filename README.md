@@ -40,3 +40,19 @@ Os projetos estão organizados de forma progressiva, acompanhando meu aprendizad
 - Git e GitHub
 
 ---
+
+---
+
+## Status
+
+Repositório em constante evolução — novos projetos serão adicionados conforme avanço nos estudos.
+
+---
+
+---
+
+## Sobre mim
+
+Desenvolvedor focado em **Backend**, apaixonado pela tecnologia, em constante aprendizado e evolução, buscando aprimorar habilidades técnicas e construir soluções eficientes e bem estruturadas.
+
+---
