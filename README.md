@@ -16,7 +16,7 @@ Os projetos estão organizados de forma progressiva, acompanhando meu aprendizad
 ┣ 📂 oop
 ┃ ┗ Programação Orientada a Objetos
 ┣ 📂 collections
-┃ ┗ List, Set, Map e Streams
+┃ ┗ List, Set, Map, Queues e Stacks
 ┣ 📂 jdbc
 ┃ ┗ Integração com banco de dados
 ┣ 📂 spring-boot
